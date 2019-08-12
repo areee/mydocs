@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/posts/creating-a-new-theme/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/posts/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/posts/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/posts/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/categories/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/categories/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/posts/hugoisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/tags/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/tags/development/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/tags/go/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/categories/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/tags/golang/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/tags/hugo/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/tags/templates/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/tags/themes/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/docs/advanced/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/docs/client/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/docs/examples/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/docs/hidden/</loc>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/docs/server/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/docs/shortcodes/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/docs/sub-section/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/docs/sub-section/ego-numen/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/docs/sub-section/natusque/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/docs/with-toc/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/docs/without-toc/</loc>
+  </url>
+  
+  <url>
+    <loc>https://areee.github.io/mydocs/docs/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
