@@ -34,11 +34,11 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     
     <item>
       <title>Viikko 1</title>
-      <link>https://areee.github.io/mydocs/docs/sub-section/viikko1/</link>
+      <link>https://areee.github.io/mydocs/docs/suoritus/viikko1/</link>
       <pubDate>Tue, 13 Aug 2019 07:28:51 +0300</pubDate>
       
-      <guid>https://areee.github.io/mydocs/docs/sub-section/viikko1/</guid>
-      <description> Viikko 1 </description>
+      <guid>https://areee.github.io/mydocs/docs/suoritus/viikko1/</guid>
+      <description>Viikko 1  Ensimmäisen viikon tehtävät (osa 1)  Viikon 1 osaamistavoitteet: Tuntee ohjelmoinnin peruskäsitteistä muuttujat, ehtolauseet, toistolauseet. Ymmärtää ohjelman suoritusjärjestyksen. Tuntee loogiset operaatiot ja ja tai. Osaa kirjoittaa ohjelmia, jotka lukevat käyttäjältä syötettä ja tekevät laskentaa syötteen perusteella.</description>
     </item>
     
     <item>
@@ -71,7 +71,8 @@ Follow the following steps:
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://areee.github.io/mydocs/docs/asennus/</guid>
-      <description> Aloitus ja asennus </description>
+      <description> Aloitus ja asennus Käyttöönotto  Tunnusten luominen TMC:hen  Orientaatio: mitä löytyy mistäkin  Linkkejä:  https://materiaalit.github.io/ohjelmointi-18/ https://tmc.mooc.fi/org/kanglu/courses/498   Asennus  ks. ohjeet: https://materiaalit.github.io/tmc-asennus/netbeans_for_windows/
+  </description>
     </item>
     
   </channel>
