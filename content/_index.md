@@ -1,6 +1,7 @@
 ---
 title: Etusivu
 type: docs
+bookToc: false
 ---
 
 # Tervetuloa ohjelmointikurssille!
