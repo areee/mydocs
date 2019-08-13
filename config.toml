@@ -1,5 +1,5 @@
 baseURL = "https://areee.github.io/mydocs/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+languageCode = "fi"
+title = "Kangasalan Java-kurssi (perusteet), syksy 2019"
 theme = "book"
 publishDir = "docs"

@@ -1,79 +1,37 @@
 ---
-title: Introduction
+title: Etusivu
 type: docs
 ---
 
-# Acerbo datus maxime
+# Tervetuloa ohjelmointikurssille!
+Mukavaa, että päätit avata oven ohjelmoinnin ihmeelliseen maailmaan! [Java-ohjelmointikielen](https://fi.wikipedia.org/wiki/Java) opiskelu on hyvä tapa perehtyä ohjelmoinnin käytänteisiin. Jo sen perusteet hallitsemalla on helppoa jatkaa muihin kieliin, kuten [Pythoniin](https://fi.wikipedia.org/wiki/Python_(ohjelmointikieli)), [JavaScriptiin](https://fi.wikipedia.org/wiki/JavaScript) ja [C#:iin (C Sharp)](https://fi.wikipedia.org/wiki/C_sharp).
 
-{{< columns >}}
-## Astris ipse furtiva
+## Paikka ja aika
 
-Est in vagis et Pittheus tu arge accipiter regia iram vocatur nurus. Omnes ut
-olivae sensit **arma sorori** deducit, inesset **crudus**, ego vetuere aliis,
-modo arsit? Utinam rapta fiducia valuere litora _adicit cursu_, ad facies
+Kurssin lähiopetus pidetään biologian **luokassa 235** perjantain tunteja lukuunottamatta. **Perjantaisin** on luvassa verkossa pidettävät **etätunnit** (Artun live-lähetykset Helsingistä). Linkki lähetykseen ilmoitetaan myöhemmin.
 
-<--->
+*Muistutus*: olet itse vastuussa siitä, että luet oppituntien ulkopuolella käsittelyssä olevaa osaa ennen seuraavaa oppituntia.
 
-## Suis quot vota
+Pvm | Klo | Teema
+--- | --- | ---
+ti 13.8. | 9.45-11.00 | **Osa 1** Aloitus ja asennus.
+ke 14.8. | 12.00-13.15 | Osa 1
+pe 16.8. | 13.30-14.45 | Etätunti, osa 1
+ti 20.8. | 9.45-11.00 | **Osa 2**
+ke 21.8. | 12.00-13.15 | Osa 2
+pe 23.8. | <span style="color:red">**15.00-16.15 <br> HUOMAA ERI KELLONAIKA!**</span> | Etätunti, osa 2
+ti 27.8. | 9.45-11.00 | **Osa 3**
+ke 28.8. | 12.00-13.15 | Osa 3
+pe 30.8. | 13.30-14.45 | Etätunti, osa 3
+ti 3.9. | 9.45-11.00 | **Osa 4**
+ke 4.9. | 12.00-13.15 | Osa 4
+pe 6.9. | 13.30-14.45 | Etätunti, osa 4
+ti 10.9. | 9.45-11.00 | **Osa 5**
+ke 11.9. | 12.00-13.15 | Osa 5
+pe 13.9. | 13.30-14.45 | Etätunti, osa 5
+ti 17.9. | 9.45-11.00 | **Osa 6**
+ke 18.9. | 12.00-13.15 | Osa 6
+pe 20.9. | 13.30-14.45 | Etätunti, osa 6
+Viikot 39–40 <br> (ma 23.9. – ti 1.10.) | Koeviikko | Opiskele itsenäisesti osa 7 ja tee tehtäviä väh. 25%? Sovitaan tämä tarkemmin.
 
-Ea _furtique_ risere fratres edidit terrae magis. Colla tam mihi tenebat:
-miseram excita suadent es pecudes iam. Concilio _quam_ velatus posset ait quod
-nunc! Fragosis suae dextra geruntur functus vulgata.
-{{< /columns >}}
-
-
-## Tempora nisi nunc
-
-Lorem **markdownum** emicat gestu. Cannis sol pressit ducta. **Est** Idaei,
-tremens ausim se tutaeque, illi ulnis hausit, sed, lumina cutem. Quae avis
-sequens!
-
-    var panel = ram_design;
-    if (backup + system) {
-        file.readPoint = network_native;
-        sidebar_engine_device(cell_tftp_raster,
-                dual_login_paper.adf_vci.application_reader_design(
-                graphicsNvramCdma, lpi_footer_snmp, integer_model));
-    }
-    public_keyboard_docking += error.controller_gibibyte_plug.ip(4,
-            asciiPetaflops, software(supercomputer_compatible_status + 4));
-    dynamic_disk.indexModeLaptop = bufferTftpReality;
-    var export_vlog_sequence = trinitron_flowchart + supercomputer_cluster_rj(
-            -1, toolbar_powerpoint_query, -2 / multiprocessing_impression);
-
-## Locis suis novi cum suoque decidit eadem
-
-Idmoniae ripis, at aves, ali missa adest, ut _et autem_, et ab? Venit spes
-versus finis sermonibus patefecit murum nec est sine oculis. _Ille_ inmota
-macies domoque caelestia cadit tantummodo scelus procul, corde!
-
-1. Dolentem capi parte rostro alvum habentem pudor
-2. Fulgentia sanguine paret
-3. E punior consurgit lentus
-4. Vox hasta eras micantes
-
-## Facibus pharetrae indetonsusque indulsit sic incurrite foliis
-
-Nefandam et prisci palmas! Blandita cutis flectitur montis macies, te _nati_
-Latiis; turbaque inferias. Virginis tibi peracta avidusque facies caper nec, e
-at ademptae, mira.
-
-    direct *= font(inputScareware(sliHome), crossplatform.byte(
-            ppl_encryption.excel_e_rte(integratedModelModifier), timeVirtual,
-            floating_speakers.media_printer(us, yahoo, primaryPhp)));
-    friendly_metal_flatbed(cd, isoPrimaryStorage(reader), dmaMirrored);
-    if (parse_flash_cron.metalGif(1, adServiceDevice, utility)) {
-        adf -= operation_cdma_samba;
-        imapGif.switch += torrent;
-    } else {
-        pmu.disk_captcha = digital_ppp_pci + recursionTransistor(5, dram);
-        ajax_service += grayscalePythonLock;
-        google_scroll_capacity = ftp + engine_dslam_sidebar / tape - 1;
-    }
-    drive_rw = zipTftp;
-    var suffix = software_router_extension.dimm_ddr(-5,
-            kernel_digital_minisite);
-
-Vocavit toto; alas **mitis** maestus in liquidarum ab legi finitimosque dominam
-tibi subitus; Orionis vertitur nota. Currere alti etiam seroque cernitis
-innumeris miraturus amplectique collo sustinet quemque! Litora ante turba?
+Jos löydät virheitä aikataulusta tai mistä tahansa (materiaalit, opetus, jne.), ilmoita asiasta rohkeasti Artulle! En suutu tietenkään :)
